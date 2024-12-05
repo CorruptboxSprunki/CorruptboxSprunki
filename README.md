@@ -27,7 +27,7 @@ Horror-themed musical projects
 📫 How to reach me
 
 Website: https://sprunkicorruptbox.org
-Play Sprunki Corruptbox online: https://sprunkicorruptbox.net
+Play Sprunki Corruptbox online: https://sprunkicorruptbox.org
 Join our modding community
 Follow development updates
 
